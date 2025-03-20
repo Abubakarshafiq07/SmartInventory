@@ -16,3 +16,5 @@ TestResults/
 appsettings.json
 appsettings.Development.json
 secrets.json
+
+.vs/
