@@ -1,0 +1,12 @@
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\bin\Debug\net8.0\SmartInventory.Product.Domain.deps.json
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\bin\Debug\net8.0\SmartInventory.Product.Domain.dll
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\bin\Debug\net8.0\SmartInventory.Product.Domain.pdb
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\obj\Debug\net8.0\SmartInventory.Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\obj\Debug\net8.0\SmartInventory.Product.Domain.AssemblyInfoInputs.cache
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\obj\Debug\net8.0\SmartInventory.Product.Domain.AssemblyInfo.cs
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\obj\Debug\net8.0\SmartInventory.Product.Domain.csproj.CoreCompileInputs.cache
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\obj\Debug\net8.0\SmartInventory.Product.Domain.sourcelink.json
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\obj\Debug\net8.0\SmartInventory.Product.Domain.dll
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\obj\Debug\net8.0\refint\SmartInventory.Product.Domain.dll
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\obj\Debug\net8.0\SmartInventory.Product.Domain.pdb
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Domain\obj\Debug\net8.0\ref\SmartInventory.Product.Domain.dll

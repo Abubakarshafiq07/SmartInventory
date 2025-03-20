@@ -1,0 +1,12 @@
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\bin\Debug\net8.0\SmartInventory.Product.Application.deps.json
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\bin\Debug\net8.0\SmartInventory.Product.Application.dll
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\bin\Debug\net8.0\SmartInventory.Product.Application.pdb
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\obj\Debug\net8.0\SmartInventory.Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\obj\Debug\net8.0\SmartInventory.Product.Application.AssemblyInfoInputs.cache
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\obj\Debug\net8.0\SmartInventory.Product.Application.AssemblyInfo.cs
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\obj\Debug\net8.0\SmartInventory.Product.Application.csproj.CoreCompileInputs.cache
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\obj\Debug\net8.0\SmartInventory.Product.Application.sourcelink.json
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\obj\Debug\net8.0\SmartInventory.Product.Application.dll
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\obj\Debug\net8.0\refint\SmartInventory.Product.Application.dll
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\obj\Debug\net8.0\SmartInventory.Product.Application.pdb
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Application\obj\Debug\net8.0\ref\SmartInventory.Product.Application.dll

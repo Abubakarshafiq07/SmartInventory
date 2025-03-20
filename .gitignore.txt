@@ -1,0 +1,18 @@
+# Ignore Visual Studio-specific files
+.vs/
+*.user
+*.suo
+*.cache
+*.db
+*.opendb
+
+# Ignore Build output
+bin/
+obj/
+out/
+TestResults/
+
+# Ignore secrets & config files
+appsettings.json
+appsettings.Development.json
+secrets.json

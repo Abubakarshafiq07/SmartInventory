@@ -1,0 +1,12 @@
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\bin\Debug\net8.0\SmartInventory.Product.Infrastructure.deps.json
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\bin\Debug\net8.0\SmartInventory.Product.Infrastructure.dll
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\bin\Debug\net8.0\SmartInventory.Product.Infrastructure.pdb
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\obj\Debug\net8.0\SmartInventory.Product.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\obj\Debug\net8.0\SmartInventory.Product.Infrastructure.AssemblyInfoInputs.cache
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\obj\Debug\net8.0\SmartInventory.Product.Infrastructure.AssemblyInfo.cs
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\obj\Debug\net8.0\SmartInventory.Product.Infrastructure.csproj.CoreCompileInputs.cache
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\obj\Debug\net8.0\SmartInventory.Product.Infrastructure.sourcelink.json
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\obj\Debug\net8.0\SmartInventory.Product.Infrastructure.dll
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\obj\Debug\net8.0\refint\SmartInventory.Product.Infrastructure.dll
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\obj\Debug\net8.0\SmartInventory.Product.Infrastructure.pdb
+D:\work\SmartInventory\SmartInventory\SmartInventoryProductService\SmartInventory.Product.Infrastructure\obj\Debug\net8.0\ref\SmartInventory.Product.Infrastructure.dll

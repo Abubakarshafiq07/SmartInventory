@@ -1,0 +1,6 @@
+@SmartInventory.Product.API_HostAddress = http://localhost:5137
+
+GET {{SmartInventory.Product.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
